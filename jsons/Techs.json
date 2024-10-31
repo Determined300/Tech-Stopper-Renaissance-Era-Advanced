@@ -338,7 +338,6 @@
 	{
 		"columnNumber": 9,
 		"era": "Renaissance era",
-		"techCost": 0,
 		"buildingCost": 9999999999,
 		"wonderCost": 9999999999,
 		"techs": [
