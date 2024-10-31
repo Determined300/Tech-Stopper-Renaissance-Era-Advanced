@@ -343,7 +343,7 @@
 		"wonderCost": 999999,
 		"techs": [
 			{
-				"name": "No further.",
+				"name": "No further",
 				"row": 6,
 				"prerequisites": ["Navigation","Architecture","Economics","Metallurgy","Chemistry"],
 				"uniques": ["Not one step closer.", "Can be continually researched"],
