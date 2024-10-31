@@ -338,7 +338,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Renaissance era",
-		"techCost": 9999999999,
+		"techCost": 99999999999,
 		"buildingCost": 99999,
 		"wonderCost": 999999,
 		"techs": [
@@ -346,8 +346,8 @@
 				"name": "No further.",
 				"row": 6,
 				"prerequisites": ["Navigation","Architecture","Economics","Metallurgy","Chemistry",],
-				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...", "Can be continually researched"],
-				"quote": "NO! This isn't supposed how you play the game! You can't pass on from here, I won't allow you. No"
+				"uniques": ["Not one step closer.", "Can be continually researched"],
+				"quote": "No."
 			},
 		]
 	},
