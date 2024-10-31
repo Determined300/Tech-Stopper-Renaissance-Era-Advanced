@@ -346,7 +346,7 @@
 				"name": "No further",
 				"row": 6,
 				"prerequisites": ["Navigation","Architecture","Economics","Metallurgy","Chemistry"],
-				"uniques": ["Not one step closer.", "Can be continually researched"],
+				"uniques": ["Can be continually researched"],
 				"quote": "No."
 			},
 		]
@@ -354,9 +354,9 @@
 	{
 		"columnNumber": 10,
 		"era": "Industrial era",
-		"techCost": 001600,
-		"buildingCost": 00300,
-		"wonderCost": 00750,
+		"techCost": 957829,
+		"buildingCost": 47593,
+		"wonderCost": 47593,
 		"techs": [
 			{
 				"name": "Archaeology",
