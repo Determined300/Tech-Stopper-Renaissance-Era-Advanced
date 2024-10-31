@@ -607,4 +607,67 @@
 				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
 			},
 			{
-				"name"
+				"name": "Lasers"
+				"row": 8,
+				"prerequisites": ["Computers"],
+				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
+			}
+		]
+	},
+
+	{
+		"columnNumber": 17,
+		"era": "Information era",
+		"techCost": 9998800,
+		"buildingCost": 99750,
+		"wonderCost": 991250,
+		"techs": [
+			{
+				"name": "Globalization",
+				"row": 2,
+				"prerequisites": ["Telecommunications"],
+				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
+			},
+			{
+				"name": "Particle Physics",
+				"row": 3,
+				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
+				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
+			},
+			{
+				"name": "Nuclear Fusion",
+				"row": 6,
+				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
+				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
+			},
+			{
+				"name": "Nanotechnology",
+				"row": 7,
+				"prerequisites": ["Robotics"],
+				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
+			},
+			{
+				"name": "Stealth",
+				"row": 8,
+				"prerequisites": ["Robotics", "Lasers"],
+				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
+			}
+		]
+	},
+	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 999500,
+		"buildingCost": 99750,
+		"wonderCost": 991250,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 5,
+				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			}
+		]
+	}
+				]
