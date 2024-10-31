@@ -348,7 +348,7 @@
 				"prerequisites": ["Navigation","Architecture","Economics","Metallurgy","Chemistry"],
 				"uniques": ["Can be continually researched"],
 				"quote": "No."
-			},
+			}
 		]
 	},
 	{
@@ -401,7 +401,7 @@
 		"era": "Industrial era",
 		"techCost": 992350,
 		"buildingCost": 99360,
-		"wonderCost": 99900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
+		"wonderCost": 99900,
 		"techs": [
 			{
 				"name": "Biology",
