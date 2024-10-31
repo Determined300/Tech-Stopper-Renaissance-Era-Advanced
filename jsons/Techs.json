@@ -338,14 +338,14 @@
 	{
 		"columnNumber": 9,
 		"era": "Renaissance era",
-		"techCost": 99999999999999999999,
+		"techCost": 9999999999,
 		"buildingCost": 9999999999,
 		"wonderCost": 9999999999,
 		"techs": [
 			{
 				"name": "No further",
 				"row": 6,
-				"prerequisites": ["Navigation","Architecture","Economics","Metallurgy","Chemistry"],
+				"prerequisites": [],
 				"uniques": ["Can be continually researched"],
 				"quote": "No."
 			}
