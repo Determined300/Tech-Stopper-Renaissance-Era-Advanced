@@ -338,9 +338,9 @@
 	{
 		"columnNumber": 9,
 		"era": "Renaissance era",
-		"techCost": 9999999999999999999999999999,
-		"buildingCost": 99999,
-		"wonderCost": 999999,
+		"techCost": 999999999999,
+		"buildingCost": 999999999999,
+		"wonderCost": 999999999999,
 		"techs": [
 			{
 				"name": "No further.",
