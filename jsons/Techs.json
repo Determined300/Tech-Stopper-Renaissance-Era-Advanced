@@ -307,6 +307,7 @@
 				"name": "Navigation",
 				"row": 2,
 				"prerequisites": ["Astronomy"],
+				"uniques": ["Reveals the entire map"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
 			{
@@ -596,7 +597,6 @@
 				"name": "Satellites",
 				"row": 6,
 				"prerequisites": ["Rocketry"],
-				"uniques": ["Reveals the entire map"],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 			{
